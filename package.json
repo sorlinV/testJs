@@ -1,0 +1,25 @@
+{
+  "name": "testjs",
+  "version": "1.0.0",
+  "description": "make unitary test for training",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "jasmine": "^2.8.0",
+    "karma": "^1.7.1",
+    "karma-jasmine": "^1.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sorlinV/testJs.git"
+  },
+  "author": "sorlinV <valentin.sorlin@hotmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sorlinV/testJs/issues"
+  },
+  "homepage": "https://github.com/sorlinV/testJs#readme"
+}
